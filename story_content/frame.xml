@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbnsnfns00000000001" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Open Sans" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000001" font="Open Sans" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npxnabnsnfns00000000001" font="Open Sans" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Open Sans" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
-    <layout name="pxabnsnfns00000000000" font="Open Sans" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Calibri" controllayout="npnxnanbsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Calibri" controllayout="pxabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Calibri" controllayout="npxnabnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Calibri" controllayout="npnxnanbnsnfns00000000001" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Calibri" controllayout="pxabnsnfns00000000000" colorscheme="npnxnanbnsnfns00000000001" string_table="npnxnanbnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -70,7 +70,7 @@
           <option name="search" value="false" />
           <option name="closed_captions" value="false">
             <options>
-              <option name="font" value="Open Sans" />
+              <option name="font" value="Calibri" />
             </options>
           </option>
           <option name="settings" value="false" />
@@ -78,7 +78,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="false" />
+          <option name="bottombar_enabled" value="true" />
         </options>
       </optiongroup>
     </optiongroups>
@@ -1211,7 +1211,7 @@
     </string_table>
   </string_tables>
   <fonts>
-    <font name="Open Sans">
+    <font name="Calibri">
       <files>
         <file bold="true" italic="false" />
         <file bold="false" italic="false" />
@@ -1227,12 +1227,12 @@
             <slidelink slideid="_player.6g3PJWD0MxN.6agUuAF3OHr" displaytext="כותרת" expand="false" type="slide" />
             <slidelink slideid="_player.6g3PJWD0MxN.6VbAptnuiuW" displaytext="פתיחה" expand="false" type="slide" />
             <slidelink slideid="_player.6g3PJWD0MxN.6cjvMpGZMs0" displaytext="תפריט" expand="false" type="slide" />
-            <slidelink slideid="_player.6g3PJWD0MxN.6Zd07UD9qbJ" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6g3PJWD0MxN.5mJAssYg9Gf" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.6g3PJWD0MxN.6Zd07UD9qbJ" displaytext="מעגל החיים בטבע1" expand="false" type="slide" />
+            <slidelink slideid="_player.6g3PJWD0MxN.5mJAssYg9Gf" displaytext="הפרדה בין פסולת1" expand="false" type="slide" />
             <slidelink slideid="_player.6g3PJWD0MxN.6S1RLNU1PMo" displaytext="הכנה1" expand="false" type="slide" />
-            <slidelink slideid="_player.6g3PJWD0MxN.6ZXBogFmtyA" displaytext="בונים" expand="false" type="slide" />
             <slidelink slideid="_player.6g3PJWD0MxN.5tVbywYDh3C" displaytext="דגשים קומפו" expand="false" type="slide" />
-            <slidelink slideid="_player.6g3PJWD0MxN.61yIVLLKjb0" displaytext="משימה: סמנו כל משפט אם הוא נכון.&#xA;אם הוא לא נכון - השאירו את הריבוע ריק." expand="false" type="slide" />
+            <slidelink slideid="_player.6g3PJWD0MxN.6UwgjUa1ngP" displaytext="נכון לא נכון" expand="false" type="slide" />
+            <slidelink slideid="_player.6g3PJWD0MxN.5e3yYlOvRiC" displaytext="מעגל החיים בטבע2" expand="false" type="slide" />
             <slidelink slideid="_player.6g3PJWD0MxN.66jCwYEyXWE" displaytext="סיימתי" expand="false" type="slide" />
             <slidelink slideid="_player.6g3PJWD0MxN.5hJF8Oxq6dR" displaytext="התאימו בין המילה למשפט המתאים לה- משימה2" expand="false" type="slide" />
             <slidelink slideid="_player.6g3PJWD0MxN.61eod51UBkQ" displaytext="משימה1 - הפרדות פסולת" expand="false" type="slide" />
